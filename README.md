@@ -14,7 +14,7 @@ It collects the **title, price, and description** of the first 12 car cover list
 - Simple and easy-to-understand code.
   
 ## Configurables
-- MAX_ADS = 28  # change this number if you want more or fewer ads
+- MaxAds = 28  # change this number if you want more or fewer ads
 
 
 ---
