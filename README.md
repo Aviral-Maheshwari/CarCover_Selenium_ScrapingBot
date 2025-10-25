@@ -12,6 +12,8 @@ It collects the **title, price, and description** of the first 12 car cover list
 - Uses **Selenium** with `webdriver_manager` for automatic ChromeDriver setup.
 - Prints results in a **table format** using `tabulate`.
 - Simple and easy-to-understand code.
+  
+## Configurables
 - MAX_ADS = 28  # change this number if you want more or fewer ads
 
 
