@@ -16,6 +16,12 @@ It collects the **title, price, and description** of the first 12 car cover list
 ## Configurables
 - MaxAds = 28  # change this number if you want more or fewer ads
 
+---
+##Output
+
+- Saves Output Results directly to .xslx file
+- Directly Open it in Excel 
+
 
 ---
 
@@ -26,4 +32,4 @@ It collects the **title, price, and description** of the first 12 car cover list
 - Packages:
 
 ```bash
-pip install selenium webdriver-manager tabulate
+pip install selenium webdriver-manager tabulate pandas openpyxl
