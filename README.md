@@ -17,7 +17,7 @@ It collects the **title, price, and description** of the first 12 car cover list
 - MaxAds = 28  # change this number if you want more or fewer ads
 
 ---
-##Output
+## Output
 
 - Saves Output Results directly to .xslx file
 - Directly Open it in Excel 
